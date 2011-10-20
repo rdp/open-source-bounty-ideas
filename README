@@ -5,3 +5,12 @@ donation-ware-able
 "feedback/donate for feature" link
 
 instructions on adding donate link to distro :)
+
+they need some way to be able to know which trac items (et al) are most popular...that seems to be lacking somewhat...
+
+see also the popularize README
+
+
+maybe I can leverage some open source equivalent of uservoice?
+
+maybe main goal should be to move the project forward, not to make money while doing it?
